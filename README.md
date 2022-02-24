@@ -8,5 +8,7 @@ This file imports two modules MySQLdb and prettytable. These two external module
 To install these modules use the commands: 
 
 pip install mysqlclient   (or)    pip install MySQL-python
+
 pip install prettytable
+
 *I don't permit the use of any of my work, since this is a school project*
